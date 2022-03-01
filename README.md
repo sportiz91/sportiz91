@@ -41,6 +41,12 @@
 
   
 <hr />
+
+<div align="center">
+
+  ##### Thanks @SPDUK for the nice template!
+  
+  
 <!--
 **sportiz91/sportiz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
