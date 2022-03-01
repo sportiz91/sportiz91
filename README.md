@@ -11,7 +11,7 @@
 
   ```js
   const bio = {
-    Languages: ['JavaScript', Python'],
+    Languages: ['JavaScript', 'Python'],
     Frontend: ['React', 'Next', 'SASS', 'Styled-Components'],
     Backend: ['Node.js'],
     Databases: ['MongoDB'],
