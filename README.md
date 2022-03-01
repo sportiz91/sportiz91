@@ -1,9 +1,9 @@
 <div align="center">
   <h3> Hi there 👋 </h3>
  
-  ##### I like writing code and create web apps.
+  ##### I like writing code and creating web apps.
   
-  ##### I also love crypto and blockchain development.
+  ##### I also love Crypto and Blockchain Development.
 
   
   
@@ -12,7 +12,7 @@
   ```js
   const bio = {
     Languages: ['JavaScript', Python'],
-    Frontend: ['React', 'Next', 'Bootstrap', 'SASS', 'Styled-Components'],
+    Frontend: ['React', 'Next', 'SASS', 'Styled-Components'],
     Backend: ['Node.js'],
     Databases: ['MongoDB'],
     Others: ['Git'],
@@ -32,19 +32,13 @@
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nextjs.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_gatsby.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_scss.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_next.svg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sass.svg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_styled.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rails.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_webpack.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_pgsql.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/folder_type_linux.svg" width="32" height="32">
+
   
 <hr />
 <!--
