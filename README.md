@@ -1,9 +1,12 @@
 <div align="center">
-
   <h3> Hi there 👋 </h3>
+ 
   ##### I like writing code and create web apps.
+  
   ##### I also love crypto and blockchain development.
 
+  
+  
 <div align="left" style="width: 560px">
 
   ```js
